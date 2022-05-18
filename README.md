@@ -46,7 +46,7 @@ PARA IMAGENS DE TELA E OUTRAS NECESSIDADES, COLOQUE 1280 X 1280
 
 
 
-- [00 - Starter](https://renato-sampaio.github.io/50_projetosWeb_50_dias/00_starter/)
+- [00 - Starter](https://renato-sampaio.github.io/50_projetosWeb_50_dias/00_starter/index)
 - [01 - Expanding Cards](https://renato-sampaio.github.io/50_projetosWeb_50_dias/01_expanding_cards/)
 - [02 - Rotate Nav](https://renato-sampaio.github.io/50_projetosWeb_50_dias/02_rotate_nav/)
 - [03 - Hidden Search](https://renato-sampaio.github.io/50_projetosWeb_50_dias/03_hidden_search/)
@@ -96,3 +96,4 @@ PARA IMAGENS DE TELA E OUTRAS NECESSIDADES, COLOQUE 1280 X 1280
 - [47 - Random Image Feed](https://renato-sampaio.github.io/50_projetosWeb_50_dias/47_random_image_feed)
 - [48 - ToDo List](https://renato-sampaio.github.io/50_projetosWeb_50_dias/48_todo_list)
 - [49 - Insect Catch Game](https://renato-sampaio.github.io/50_projetosWeb_50_dias/49_insect_catch_game)
+- [50 - Waves](https://renato-sampaio.github.io/50_projetosWeb_50_dias/50_waves)
